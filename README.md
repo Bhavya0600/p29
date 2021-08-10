@@ -1,2 +1,3 @@
-# p29
+# zombie-crush-1
+boilerplate for crush the zombie game
 
